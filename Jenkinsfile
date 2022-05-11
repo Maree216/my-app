@@ -1,3 +1,4 @@
+
 node{
    stage('SCM Checkout'){
      git 'https://github.com/Maree216/my-app.git'
@@ -39,4 +40,3 @@ node{
    }
 }
 }
-
